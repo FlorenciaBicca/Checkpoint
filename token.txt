@@ -2,7 +2,7 @@ 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
 
 <<<<<<< HEAD
 
-Token Cynthia: https://github.com/FlorenciaBicca/Checkpoint.git
+Token Cynthia: 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
 =======
 token florencia prueba 2
 >>>>>>> 61644bde96f2f839e578f5cd4299a02d08dcf449
